@@ -28,6 +28,7 @@
     "mongoose": "^5.3.16",
     "react-router-dom": "^5.2.0",
     "timespan": "^2.3.0",
+    "uglify-js": "^3.10.0",
     "yarn": "^1.22.4"
   }
 }
